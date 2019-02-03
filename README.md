@@ -19,3 +19,7 @@ source qrenv/bin/activate
 ## Install python modules
 
 ```pip3 install -r requirements```
+
+### 
+
+Pyqrcode [Doc](https://pythonhosted.org/PyQRCode/)
