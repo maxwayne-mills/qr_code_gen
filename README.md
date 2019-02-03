@@ -1,6 +1,6 @@
 # QR  code generator
 
-Generate QR codes from scratch, code adapted from[Ngenge Senior](https://medium.com/@ngengesenior/qr-codes-generation-with-python-377735be6c5f)
+Generate QR codes from scratch, code adapted from [Ngenge Senior](https://medium.com/@ngengesenior/qr-codes-generation-with-python-377735be6c5f)
 
 - Setup environment
 - log into virtual environment
@@ -24,7 +24,7 @@ source qrenv/bin/activate
 
 ```./gen_qr_code.py ```
 
-this will goth display the QR code on the screen and within a file call url.png within the same directory.
+this will both display the QR code on the screen and within a file call url.png within the same directory. Updating the scale ```scale=8``` either up or down will create a larger or smaller PNG image.
 
 ###
 
