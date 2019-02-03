@@ -1,6 +1,6 @@
 # QR  code generator
 
-Generate QR codes from scratch.
+Generate QR codes from scratch, code adapted from[Ngenge Senior] (https://medium.com/@ngengesenior/qr-codes-generation-with-python-377735be6c5f)
 
 - Setup environment
 - log into virtual environment
