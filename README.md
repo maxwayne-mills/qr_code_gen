@@ -20,6 +20,12 @@ source qrenv/bin/activate
 
 ```pip3 install -r requirements```
 
+## Execute python script
+
+```./gen_qr_code.py ```
+
+this will goth display the QR code on the screen and within a file call url.png within the same directory.
+
 ###
 
 Pyqrcode [Doc](https://pythonhosted.org/PyQRCode/)
