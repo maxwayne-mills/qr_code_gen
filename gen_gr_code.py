@@ -4,7 +4,7 @@ import pyqrcode
 
 def gen_qr_code(user_url):
     url = pyqrcode.create(user_url)
-    url.png('url.png', scale=8) # Change scale level in increase or decrease size of png image
+    url.png('url.png', scale=8)         # Change scale level to increase or decrease size of png image
     print("Printing QR code for URL " + str(user_url) )
     print(url.terminal())
 
